@@ -1,0 +1,22 @@
+/* INICIO ESTILOS COMUNES */
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "josefin sans", sans-serif;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color: #f0f8fd;
+}
+/* FIN DE LOS ESTILOS COMUNES */
+
+/* INICIO DE LA PAGINA PRINCIPAL */
+.main-page{
+    width: 100%;
+    height: 100vh;
+    display: grid;grid-template-columns: repeat(2, 1fr);
+
+}
+/* FIN DE LA PAGINA PRINCIPAL */
